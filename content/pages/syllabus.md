@@ -27,14 +27,75 @@ Active class participation is central to our work together. Attendance is mandat
 Grading Policy
 --------------
 
-| ACTIVITIES | POINTS |
-| --- | --- |
-| Class Participation | 25 points |
-| Debate | 25 points |
-| Two 1250 Word Papers | 60 points (30 points each) |
-| Rewrite of First 1250 Word Paper | 30 points |
-| One 2500 Word Paper | 60 points |
-| **Total** | **200 points** 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+POINTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+25 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Debate
+{{< tdclose >}}
+{{< tdopen >}}
+25 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two 1250 Word Papers
+{{< tdclose >}}
+{{< tdopen >}}
+60 points (30 points each)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Rewrite of First 1250 Word Paper
+{{< tdclose >}}
+{{< tdopen >}}
+30 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+One 2500 Word Paper
+{{< tdclose >}}
+{{< tdopen >}}
+60 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Total**
+{{< tdclose >}}
+{{< tdopen >}}
+**200 points**
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Each assignment will be weighted as shown in the table above in the calculation of the final grade, although these calculations will also take into account improved performance during the course of the semester.
 
