@@ -26,11 +26,11 @@ TOPICS
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Book of Hours, Use of Paris, Circa 1450 (PDF - 3.7MB)]({{< baseurl >}}/resources/mit21h_141s15_bookofhour)
+[The Book of Hours, Use of Paris, Circa 1450 (PDF - 3.7MB)]({{< baseurl >}}/resources/mit21h_141s15_bookofhour)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Nuremberg Chronicle, 1493, Part I (PDF - 5.7MB)]({{< baseurl >}}/resources/mit21h_141s15_nurembergi)
+[The Nuremberg Chronicle, 1493, Part I (PDF - 5.7MB)]({{< baseurl >}}/resources/mit21h_141s15_nurembergi)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Nuremberg Chronicle, 1493, Part II (PDF - 6.7MB)]({{< baseurl >}}/resources/mit21h_141s15_nurembergii)
+[The Nuremberg Chronicle, 1493, Part II (PDF - 6.7MB)]({{< baseurl >}}/resources/mit21h_141s15_nurembergii)
 
 
 {{< tdclose >}}
@@ -41,7 +41,7 @@ TOPICS
 6
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Northern Europe, Christian Humanism, Catholic Reform ca. 1500 (PDF - 3.4MB)]({{< baseurl >}}/resources/mit21h_141s15_christian)
+[Northern Europe, Christian Humanism, Catholic Reform ca. 1500 (PDF - 3.4MB)]({{< baseurl >}}/resources/mit21h_141s15_christian)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -50,7 +50,7 @@ TOPICS
 8
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Reformation Images (PDF - 2.2MB)]({{< baseurl >}}/resources/mit21h_141s15_reformation)
+[Reformation Images (PDF - 2.2MB)]({{< baseurl >}}/resources/mit21h_141s15_reformation)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -59,7 +59,7 @@ TOPICS
 9
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Radical Reformation: Theology & Politics (PDF)]({{< baseurl >}}/resources/mit21h_141s15_radical)
+[Radical Reformation: Theology & Politics (PDF)]({{< baseurl >}}/resources/mit21h_141s15_radical)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,9 +70,9 @@ TOPICS
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Bible In Print 1453–1700 (PDF - 1.7MB)]({{< baseurl >}}/resources/mit21h_141s15_bible)
+[The Bible In Print 1453–1700 (PDF - 1.7MB)]({{< baseurl >}}/resources/mit21h_141s15_bible)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Skepticism, Mannerism, and Scholarship, 1570–1630 (PDF - 4.0MB)]({{< baseurl >}}/resources/mit21h_141s15_skepticism)
+[Skepticism, Mannerism, and Scholarship, 1570–1630 (PDF - 4.0MB)]({{< baseurl >}}/resources/mit21h_141s15_skepticism)
 
 
 {{< tdclose >}}
@@ -83,7 +83,7 @@ TOPICS
 13
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Descartes' Discourse on Method (PDF - 1.3MB)]({{< baseurl >}}/resources/mit21h_141s15_descartes)
+[Descartes' Discourse on Method (PDF - 1.3MB)]({{< baseurl >}}/resources/mit21h_141s15_descartes)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -92,7 +92,7 @@ TOPICS
 14
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Execution of Charles I (PDF - 1.1MB)]({{< baseurl >}}/resources/mit21h_141s15_charles1)
+[The Execution of Charles I (PDF - 1.1MB)]({{< baseurl >}}/resources/mit21h_141s15_charles1)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -101,7 +101,7 @@ TOPICS
 18
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Images of Isaac Newton (PDF)]({{< baseurl >}}/resources/mit21h_141s15_newton)
+[Images of Isaac Newton (PDF)]({{< baseurl >}}/resources/mit21h_141s15_newton)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,9 +112,9 @@ TOPICS
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The _Encyclopédie I_ (PDF - 2.5MB)]({{< baseurl >}}/resources/mit21h_141s15_encycloped1)
+[The _Encyclopédie I_ (PDF - 2.5MB)]({{< baseurl >}}/resources/mit21h_141s15_encycloped1)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The _Encyclopédie II_ (PDF - 1.7MB)]({{< baseurl >}}/resources/mit21h_141s15_encycloped2)
+[The _Encyclopédie II_ (PDF - 1.7MB)]({{< baseurl >}}/resources/mit21h_141s15_encycloped2)
 
 
 {{< tdclose >}}
@@ -125,7 +125,7 @@ TOPICS
 23
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Reform of Time, Space & Custom in the French Revolution (PDF - 4.0MB)]({{< baseurl >}}/resources/mit21h_141s15_frenchreform)
+[The Reform of Time, Space & Custom in the French Revolution (PDF - 4.0MB)]({{< baseurl >}}/resources/mit21h_141s15_frenchreform)
 {{< tdclose >}}
 
 {{< trclose >}}
